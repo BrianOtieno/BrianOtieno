@@ -22,7 +22,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 ```bash
 npx brianotieno
 ```
-**👆 This command line tool can be found here [npx brianotieno](https://github.com/BrianOtieno/npx-card)**
+**👆 This above command line tool can be found here [npx brianotieno](https://github.com/BrianOtieno/npx-card)**
 
 <!--
 **BrianOtieno/BrianOtieno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -39,12 +39,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Avaiable on my Youtube Chanells
+### Avaiable on my Youtube Chanells
 
-[![YouTube Chanell](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/@OBrienOtieno)
-[![AI Regent](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/@AiRegent)
+[![Brian Otieno Youtube](https://github.com/alxrm/youtube-play-icon/blob/master/art/play.gif?raw=true)](https://www.youtube.com/@OBrienOtieno)
 
-#### Music I listen to while coding..
+[![AI Regent](https://github.com/alxrm/youtube-play-icon/blob/master/art/play.gif?raw=true)](https://www.youtube.com/@AiRegent)
+
+### List of Music I listen to on Spotify while coding..
+
 
 [![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/playlist/4NzxLuLTPFSnJeHYt7Ds8a)
-
