@@ -42,21 +42,47 @@ I mostly work on private repositories, leveraging especially the concurrency of 
 
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BrianOtieno&theme=dracula" alt="BrianOtieno" /></a> </p>
 
+#### Quantum Computing 
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
+  ![Qiskit](https://img.shields.io/badge/-Qiskit-333333?style=flat&logo=Qiskit)
+
 #### Data Science
   ![Qiskit](https://img.shields.io/badge/-Qiskit-333333?style=flat&logo=Qiskit)
-  ![Qiskit](https://img.shields.io/badge/-Numpy-333333?style=flat&logo=Numpy)
+  ![Numpy](https://img.shields.io/badge/-Numpy-333333?style=flat&logo=Numpy)
   ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=Pandas)
-  ![Scipy](https://img.shields.io/badge/-Scipy-333333?style=flat&logo=Scipy)
+  ![Scipy](https://img.shields.io/badge/-Scipy-333333?style=flat&logo=Scipy) 
+  ![Seaborn](https://img.shields.io/badge/-Seaborn-333333?style=flat&logo=Seaborn) 
+  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=Matplotlib)
   ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-333333?style=flat&logo=Scikit-Learn)
   ![Pytorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=Pytorch)
   ![Tensorflow](https://img.shields.io/badge/-Tensorflow-333333?style=flat&logo=Tensorflow)
+  
 #### Programming Languages
   ![Golang](https://img.shields.io/badge/-Go-333333?style=flat&logo=Go)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
-![Golang](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript)
+![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Typescript)
  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C++)
-  ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=Rust)
+![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=Rust)
+![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=Swift)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
+
+##### Mobile
+![Ionic](https://img.shields.io/badge/-IonicAngular-333333?style=flat&logo=Ionic)
+![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=Android)
+![React Native](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=React)
+![iOS](https://img.shields.io/badge/-iOS-333333?style=flat&logo=iOS)
+
+##### Frameworks
+![Gin Gonic](https://img.shields.io/badge/-Gin-333333?style=flat&logo=Gin)
+![Fiber](https://img.shields.io/badge/-GorillaMux-333333?style=flat&logo=GorillaMux)
+![Fiber](https://img.shields.io/badge/-Fiber-333333?style=flat&logo=Fiber)
+![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=FastAPI)
+![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=Flask)
+![Rocket](https://img.shields.io/badge/-Rocket-333333?style=flat&logo=Rocket)
+![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-333333?style=flat&logo=Codeigniter)
+![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=Express)
+
 
   #### Databases
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
@@ -64,6 +90,8 @@ I mostly work on private repositories, leveraging especially the concurrency of 
   ![MariaDB](https://img.shields.io/badge/-MariaDB-333333?style=flat&logo=MariaDB)
   ![SQL Server](https://img.shields.io/badge/-SQLServer-333333?style=flat&logo=SQLServer)
   ![Couch DB](https://img.shields.io/badge/-CouchDB-333333?style=flat&logo=CouchDB)
+
+  #### 
 
 #### Others
 ![Airflow](https://img.shields.io/badge/-Airflow-333333?style=flat&logo=Airflow)
