@@ -67,13 +67,13 @@ I mostly work on private repositories, leveraging especially the concurrency of 
 ![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=Swift)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
 
-##### Mobile
+####  Mobile
 ![Ionic](https://img.shields.io/badge/-IonicAngular-333333?style=flat&logo=Ionic)
 ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=Android)
 ![React Native](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=React)
 ![iOS](https://img.shields.io/badge/-iOS-333333?style=flat&logo=iOS)
 
-##### Frameworks
+#### Frameworks
 ![Gin Gonic](https://img.shields.io/badge/-Gin-333333?style=flat&logo=Gin)
 ![Fiber](https://img.shields.io/badge/-GorillaMux-333333?style=flat&logo=GorillaMux)
 ![Fiber](https://img.shields.io/badge/-Fiber-333333?style=flat&logo=Fiber)
