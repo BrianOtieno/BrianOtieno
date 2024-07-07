@@ -97,11 +97,7 @@ I mostly work on private repositories, leveraging especially the concurrency of 
 ![Airflow](https://img.shields.io/badge/-Airflow-333333?style=flat&logo=Airflow)
 ![Kafka](https://img.shields.io/badge/-Kafka-333333?style=flat&logo=Kafka)
 
-
-
-<!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=BrianOtieno&theme=midnight-purple&date_format=j%20M%5B%20Y%5D&card_width=500" alt="GitHub Streak" /></a> -->
-
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=brianotieno&label=Profile%20views&color=0e75b6&style=flat" alt="BrianOtieno" /> </p> -->
+ <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=brianotieno&label=Profile%20views&color=0e75b6&style=flat" alt="BrianOtieno" /> </p> -->
  
 
  ### I'm on Youtube
