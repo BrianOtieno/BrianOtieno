@@ -2,7 +2,7 @@
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Erokamano)🙏🏻, I'm Brian Otieno! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Chief Technology Officer at <a href="https://www.regent-ai.com/">AI Regent
+<p><em>Quantum Scientist at <a href="https://www.nairobi-quantum-fusion.com/">Nairobi Quantum Fusion
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and a quantum computing nerd.
 </em></p>
 
